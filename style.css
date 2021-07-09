@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/78/4e/43/784e43d7b7f90f9609e5b160cd61535e.gif");
+    background-repeat: repeat;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects, #result_object_name  , #result_object_accuracy
+  {
+    color: mediumblue;
+    font-size: 20px;
+  }
